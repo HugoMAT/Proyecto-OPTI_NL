@@ -1,6 +1,6 @@
 # Proyecto-OPTI_NL
 
-#Bienvenido
+# Bienvenido
 
 Actulizaciones: Con respecto a la última versión del repositorio esta vez, establecemos comparativas de las rutinas de solución: Como problema cuadrático del problema dual de svm con margen suave y kernelizado, y svm con librería sktlearn. Las comparaciones son de resultados para regularización c=100 con kernel lineal y gaussiano. Ademaás de una comparación de eficiencia para un problema con más datos que los originales.
 
